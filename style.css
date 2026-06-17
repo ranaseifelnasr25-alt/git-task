@@ -1,0 +1,50 @@
+body{
+    text-align: center;
+}
+h1 {
+    background-color: rgb(64, 10, 163);
+    color: aliceblue;
+    font-size: 35px;
+    font-weight:bold ;
+    text-decoration: underline;
+
+}
+h2{
+     background-color: rgb(64, 10, 163);
+    color: aliceblue;
+    font-size: 35px;
+    font-weight:bold ;
+    text-decoration: underline;
+}
+
+table{
+    background-color: aliceblue;
+}
+th {
+    background-color: antiquewhite;
+    color: aqua;
+}
+form{
+    background-color: bisque;
+}
+
+input,
+textarea{
+    font-size: 36px;
+    color: brown;
+}
+button{
+    background-color: blue;
+    color: aliceblue;
+    height: 45px;
+}
+footer{
+    background-color: black;
+    color: aliceblue;
+}
+.demo{
+    background-color: blueviolet;
+    text-align: center;
+    justify-content: center;
+    
+}
